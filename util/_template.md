@@ -1,8 +1,10 @@
 # Kodeverk
 
-## Bakgrunnsopplysninger
+## Bakgrunn
 
 ## Ansvarlig
+
+## Notater
 
 ## Verdier
 
